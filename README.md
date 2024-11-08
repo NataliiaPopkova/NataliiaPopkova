@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natasha</h1>
 <h3 align="center">Data Scientist with a solid academic background in corpus linguistic research, applied linguistics and multicultural communication. Continuously learning and leveraging machine learning and data to enhance human well-being and happiness.</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Computer Science** at Goldsmith, University of London.
 
 - 📫 How to reach me **popkovanataliia@gmail.com**
 
